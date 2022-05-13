@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Murillo.
 
 - 🔭 Atualmente não trabalho na área, somente estudando
-- 🌱 Fazendo faculdade de ciências da computação e aperfeiçoando minhas habilidades nas linguagens de Python, PHP, HTML, CSS e Java SCRIPT
+- 🌱 Fazendo faculdade de ciências da computação e aperfeiçoando minhas habilidades nas linguagens de Python, PHP, HTML, CSS e Java Script
 - 📫 Contate-me no email: murilocristovaodias@gmail.com
 
 <div align="center">

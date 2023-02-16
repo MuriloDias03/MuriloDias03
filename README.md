@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Murillo.
 
 - 🔭 Atualmente não trabalho na área, somente estudando
-- 🌱 Fazendo faculdade de ciências da computação e aperfeiçoando minhas habilidades nas linguagens de Python, PHP, HTML, CSS e Java Script
-- 📫 Contate-me no email: murilocristovaodias@gmail.com
+- 📚 Cursando ciência da computação na Universidade de Franca - UNIFRAN (3º semestre)
+- 💻 Estudando para ser um desenvolvedor Full Stack ❤️
 
 <div align="center">
   <a href="https://github.com/murillodias89">

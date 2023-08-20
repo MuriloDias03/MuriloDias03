@@ -1,7 +1,7 @@
-## Olá! Eu sou o Murillo.
+## Olá! Eu sou o Murilo.
 
-- 🔭 Atualmente não trabalho na área, somente estudando
-- 📚 Cursando ciência da computação na Universidade de Franca - UNIFRAN (3º semestre)
+- 🔭 Atualmente não trabalho na área, somente estudando 🥹
+- 📚 Cursando ciência da computação na Universidade de Franca - UNIFRAN (4º semestre)
 - 💻 Estudando para ser um desenvolvedor Full Stack ❤️
 
 <div align="center">
@@ -25,6 +25,6 @@
   <a href = "mailto:murilocristovaodias@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/murilo-cristovão-dias-93b01022a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
  
-   ![Snake animation](https://github.com/murillodias89/murillodias89/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/murillodias89/murillodias89/blob/output/github-contribution-grid-snake.svg)
   
   </div>

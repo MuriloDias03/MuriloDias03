@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Murilo.
 
 - 🔭 Atualmente não trabalho na área, somente estudando 🥹
-- 📚 Cursando ciência da computação na Universidade de Franca - UNIFRAN (4º semestre)
+- 📚 Cursando ciência da computação na Universidade de Franca - UNIFRAN (5º semestre)
 - 💻 Estudando para ser um desenvolvedor Full Stack ❤️
 
 <div align="center">

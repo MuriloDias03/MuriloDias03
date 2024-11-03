@@ -1,7 +1,16 @@
-## Olá! Eu sou o Murilo.
+<h2 align="center"><strong>Olá, me chamo Murilo Cristovão Dias! 👽 </strong></h2>
 
-- 🔭 Atualmente não trabalho na área, somente estudando 
-- 📚 Cursando ciência da computação na Universidade de Franca - UNIFRAN (6º semestre)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img width="700px" src="https://readme-typing-svg.demolab.com?color=B026FF&lines=Olá, seja bem vindo ao meu perfil!" alt="Typing SVG">
+  </a>
+</div>
+
+- 💼 Atualmente não trabalho na área, somente estudando.
+- 📚 Cursando ciência da computação na Universidade de Franca - UNIFRAN (6º semestre).
+- 🌱 Estudando para ser Dev Back-End em Java.
+- ✝️ Vivendo cada dia para a glória de Deus e guiado por Sua sabedoria!
+
 
 &nbsp;
 <div  align="center" style="margin-bottom:100px">
@@ -46,7 +55,7 @@
 &nbsp;
 &nbsp;
 
-## Contacts:
+## Contato:
 
 <div> 
 <a href="https://www.instagram.com/_murilodiaas03" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">

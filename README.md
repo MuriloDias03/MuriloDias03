@@ -7,7 +7,7 @@
 </div>
 
 - 💼 Atualmente não trabalho na área, somente estudando.
-- 📚 Cursando ciência da computação na Universidade de Franca - UNIFRAN (6º semestre).
+- 📚 Cursando ciência da computação na Universidade de Franca - UNIFRAN (7º semestre).
 - 🌱 Estudando para ser Dev Back-End em Java.
 - ✝️ Vivendo cada dia para a glória de Deus e guiado por Sua sabedoria!
 

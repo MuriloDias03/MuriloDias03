@@ -8,7 +8,7 @@
 
 - 💼 Atualmente não trabalho na área, somente estudando.
 - 📚 Cursando ciência da computação na Universidade de Franca - UNIFRAN (7º semestre).
-- 🌱 Estudando para ser Dev Back-End em Java.
+- 🌱 Estudando para ser Dev Full-Stack em React e Java.
 - ✝️ Vivendo cada dia para a glória de Deus e guiado por Sua sabedoria!
 
 
@@ -47,6 +47,8 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 
 #### Workstation Tools:
 

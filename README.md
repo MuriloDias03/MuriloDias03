@@ -8,7 +8,7 @@
 
 - 💼 Atualmente não trabalho na área, somente estudando.
 - 📚 Cursando ciência da computação na Universidade de Franca - UNIFRAN (7º semestre).
-- 🌱 Estudando para ser Dev Full-Stack em React e Java.
+- 🌱 Estudando para ser Dev Back-End e Java Spring.
 - ✝️ Vivendo cada dia para a glória de Deus e guiado por Sua sabedoria!
 
 

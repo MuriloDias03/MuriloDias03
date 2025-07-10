@@ -57,11 +57,6 @@
 
 ## Contato:
 
-<div> 
-<a href="https://www.instagram.com/_murilodiaas03" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
 <a href="https://www.linkedin.com/in/murilo-cristov%C3%A3o-dias-93b01022a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-
-  
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>

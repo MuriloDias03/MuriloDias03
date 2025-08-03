@@ -1,6 +1,10 @@
-<h1 align="center"><strong>Olá, me chamo Murilo Cristovão Dias! 👽 </strong></h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&letterSpacing=center&duration=3500&pause=2500&color=9C1AF7&center=true&width=700&height=60&lines=Ol%C3%A1%2C+me+chamo+Murilo!%F0%9F%91%BD;Seja+bem-vindo+ao+meu+perfil!;%23OpenToWork;Desenvolvedor+Back-End+Java+Spring.">
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=D01FDF&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+---
 
 - 💼 Atualmente não trabalho na área, somente estudando.
 - 📚 Cursando ciência da computação na Universidade de Franca - UNIFRAN (8º semestre).

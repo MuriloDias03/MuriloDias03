@@ -38,7 +38,7 @@
 
 #### Técnologias que tenho experiência:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,spring,mongodb,hibernate,py,cpp,mysql,postman,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,spring,mongodb,hibernate,py,cs,mysql,postman,git)](https://skillicons.dev)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 

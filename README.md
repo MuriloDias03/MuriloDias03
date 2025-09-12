@@ -1,12 +1,8 @@
----
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&letterSpacing=center&duration=3500&pause=2500&color=9C1AF7&center=true&width=700&height=60&lines=Ol%C3%A1%2C+me+chamo+Murilo!%F0%9F%91%BD;Seja+bem-vindo+ao+meu+perfil!;%23OpenToWork;Desenvolvedor+Back-End+Java+Spring.">
   </a>
 </p>
-
----
 
 - 💼 Atualmente não trabalho na área, somente estudando.
 - 📚 Cursando ciência da computação na Universidade de Franca - UNIFRAN (8º semestre).

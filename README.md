@@ -41,7 +41,7 @@
 
 #### O que estou estudando atualmente:
 
-[![My Skills](https://skillicons.dev/icons?i=docker,postgres,react,ts,linux,gcp,aws,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,postgres,react,ts,linux,debian,gcp,aws,githubactions)](https://skillicons.dev)
 
 
 #### Workstation Tools:

@@ -5,7 +5,8 @@
 </p>
 
 - 💼 Atualmente não trabalho na área, somente estudando.
-- 📚 Cursando ciência da computação na Universidade de Franca - UNIFRAN (8º semestre).
+- 🏅 Técnico em Análise e Desenvolvimento de Sistemas - ETEC.
+- 👨‍🎓 Graduado em Ciência da Computação na Universidade de Franca - UNIFRAN.
 - 🌱 Estudando para ser Dev Back-End e Java Spring.
 - ✝️ Vivendo cada dia para a glória de Deus e guiado por Sua sabedoria!
 
@@ -34,14 +35,14 @@
 
 #### Técnologias que tenho experiência:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,spring,mongodb,hibernate,py,cs,mysql,postman,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,cs,java,spring,mongodb,hibernate,mysql,postgres,postman,git,githubactions)](https://skillicons.dev)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
 
 #### O que estou estudando atualmente:
 
-[![My Skills](https://skillicons.dev/icons?i=docker,angular,postgres,react,ts,linux,ubuntu,gcp,aws,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,linux,gcp,aws,angular,react,ts,flutter,dart)](https://skillicons.dev)
 
 
 #### Workstation Tools:

@@ -42,7 +42,7 @@
 
 #### O que estou estudando atualmente:
 
-[![My Skills](https://skillicons.dev/icons?i=docker,linux,gcp,aws,angular,react,ts,flutter,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,linux,gcp,aws,angular,react,ts,flutter,dart)](https://skillicons.dev)
 
 
 #### Workstation Tools:

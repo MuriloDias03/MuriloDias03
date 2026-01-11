@@ -35,14 +35,14 @@
 
 #### Técnologias que tenho experiência:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,cs,java,spring,mongodb,hibernate,mysql,postgres,postman,git,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,java,spring,hibernate,py,cs,mysql,postgres,postman,git,githubactions)](https://skillicons.dev)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
 
 #### O que estou estudando atualmente:
 
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,linux,gcp,aws,angular,react,ts,flutter,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,linux,gcp,aws,angular,ts,flutter,dart)](https://skillicons.dev)
 
 
 #### Workstation Tools:

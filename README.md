@@ -4,8 +4,6 @@
 
 <h1 align="center">Olá, seja bem-vindo! 👋 </h1>
 
-###
-
 <h3 align="left">🧑‍💻 Sobre mim</h3>
 
 <p align="left">
@@ -18,13 +16,17 @@ Me chamo Murilo, tenho 22 anos e apaixonado pela tecnologia!<br>
 - ✝️ Vivendo cada dia para a glória de Deus e guiado por Sua sabedoria! <br>
 </p>
 
-###
+<br>
 
 <h3 align="left">🛠 Language and tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,java,spring,hibernate,py,cs,mysql,postgres,docker,kubernetes,linux,gcp,aws,postman,git,githubactions&perline=20)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,spring,hibernate,py,cs,mysql,postgres,docker,kubernetes,linux,gcp,aws,postman,git,githubactions&perline=10" />
+  </a>
+</p>
 
-###
+<br>
 
 <h3 align="left">🔥  Meus Status</h3>
 
@@ -33,7 +35,6 @@ Me chamo Murilo, tenho 22 anos e apaixonado pela tecnologia!<br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=murilodias03&layout=default&theme=dracula&hide_border=false&langs_count=8&v=3" height="180" alt="top languages" />
 </div>
 
-###
 
 <div align="center">
   <picture>
@@ -43,7 +44,7 @@ Me chamo Murilo, tenho 22 anos e apaixonado pela tecnologia!<br>
   </picture>
 </div>
 
-###
+<br>
 
 <h3 align="left">📬 Contato</h3>
 

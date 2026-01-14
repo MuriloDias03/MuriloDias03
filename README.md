@@ -22,7 +22,7 @@ Me chamo Murilo, tenho 22 anos e apaixonado pela tecnologia!<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,spring,hibernate,py,cs,mysql,postgres,docker,kubernetes,linux,gcp,aws,postman,git,githubactions&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,angular,java,spring,hibernate,py,cs,mysql,postgres,docker,kubernetes,linux,gcp,aws,postman,git,githubactions&perline=11" />
   </a>
 </p>
 

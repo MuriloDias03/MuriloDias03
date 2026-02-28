@@ -30,10 +30,11 @@ Me chamo Murilo, tenho 22 anos e apaixonado pela tecnologia!<br>
 
 <h3 align="left">🔥  Meus Status</h3>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=murilodias03&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="trophies" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=murilodias03&layout=default&theme=dracula&hide_border=false&langs_count=8&v=3" height="180" alt="top languages" />
-</div>
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=murilodias03&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=murilodias03&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=murilodias03&theme=radical) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=murilodias03&theme=radical) | ![](https://streak-stats.demolab.com?user=murilodias03&theme=tokyonight&hide_border=false) |
+| :-: | :-: |
 
 
 <div align="center">

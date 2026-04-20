@@ -9,7 +9,7 @@
 <p align="left">
 Me chamo Murilo, tenho 22 anos e apaixonado pela tecnologia!<br>
 
-- 💼 Desenvolvedor de software freelancer. <br>
+- 💼 Desenvolvedor back-end Java & Spring Boot. <br>
 - 👨‍🎓 Graduado em Ciência da Computação na Universidade de Franca - UNIFRAN. <br>
 - 🏅 Técnico em Análise e Desenvolvimento de Sistemas - ETEC Pedro Badran (São Joaquim da Barra). <br>
 - ✝️ Vivendo cada dia para a glória de Deus e guiado por Sua sabedoria! <br>

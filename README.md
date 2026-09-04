@@ -18,9 +18,9 @@ Tenho 22 anos e sou formado em Ciência da Computação pela UNIFRAN, com técni
 
 Trabalho principalmente com **Java e Spring Boot** no backend, construindo APIs e microsserviços, e venho expandindo para o front-end com **React**. Também tenho experiência com Node.js e Flutter em projetos pontuais.
 
-Gosto de entender o porquê por trás de uma decisão de arquitetura antes de implementar.
+Gosto de entender o porquê por trás de uma decisão de arquitetura antes de implementar. 🌟
 
-Vivo cada dia para a glória de Deus e guiado por Sua sabedoria.
+Vivo cada dia para a glória de Deus e guiado por Sua sabedoria. 🙏
 
 <br>
 

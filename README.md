@@ -33,7 +33,7 @@ Vivo cada dia para a glória de Deus e guiado por Sua sabedoria. 🙏
 
 **Frontend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&perline=7" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css&perline=7" />
 </p>
 
 **Mobile**

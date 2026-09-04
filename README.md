@@ -1,40 +1,59 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+# Murilo C. Dias
+
+**Desenvolvedor Full-Stack** — Java & Spring Boot | React | Docker
+
+<!-- Quando o portfólio estiver no ar, troque o link abaixo -->
+<!-- [🔗 Portfólio](https://seu-link-aqui.vercel.app) · -->
+[GitHub](https://github.com/MuriloDias03) · [LinkedIn](https://www.linkedin.com/in/murilo-cristov%C3%A3o-dias-93b01022a/)
+
 </div>
 
-<h1 align="center">Olá, seja bem-vindo! 👋 </h1>
+<br>
 
-<h3 align="left">🧑‍💻 Sobre mim</h3>
+## Sobre
 
+Tenho 22 anos e sou formado em Ciência da Computação pela UNIFRAN, com técnico em Análise e Desenvolvimento de Sistemas pela ETEC Pedro Badran.
+
+Trabalho principalmente com **Java e Spring Boot** no backend, construindo APIs e microsserviços, e venho expandindo para o front-end com **React**. Também tenho experiência com Node.js e Flutter em projetos pontuais.
+
+Gosto de entender o porquê por trás de uma decisão de arquitetura antes de implementar.
+
+Vivo cada dia para a glória de Deus e guiado por Sua sabedoria.
+
+<br>
+
+## Stack
+
+**Backend**
 <p align="left">
-Me chamo Murilo, tenho 22 anos e apaixonado pela tecnologia!<br>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,mysql,postgres&perline=6" />
+</p>
 
-- 💼 Desenvolvedor Full-Stack. <br>
-- 👨‍🎓 Graduado em Ciência da Computação na Universidade de Franca - UNIFRAN. <br>
-- 🏅 Técnico em Análise e Desenvolvimento de Sistemas - ETEC Pedro Badran (São Joaquim da Barra). <br>
-- ✝️ Vivendo cada dia para a glória de Deus e guiado por Sua sabedoria! <br>
+**Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&perline=7" />
+</p>
+
+**Mobile**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart&perline=6" />
+</p>
+
+**DevOps & Cloud**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,aws,githubactions,linux&perline=6" />
+</p>
+
+**Ferramentas**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea&perline=6" />
 </p>
 
 <br>
 
-<h3 align="left">🛠 Language and tools</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,tailwind,java,spring,hibernate,py,mysql,postgres,docker,kubernetes,linux,gcp,aws,postman,git,githubactions&perline=11" />
-  </a>
-</p>
-
-<br>
-
-<h3 align="left">🔥  Meus Status</h3>
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=murilodias03&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=murilodias03&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=murilodias03&theme=radical) |
-| :-: | :-: | :-: |
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=murilodias03&theme=radical) | ![](https://streak-stats.demolab.com?user=murilodias03&theme=tokyonight&hide_border=false) |
-| :-: | :-: |
-
+## Atividade
 
 <div align="center">
   <picture>
@@ -46,12 +65,14 @@ Me chamo Murilo, tenho 22 anos e apaixonado pela tecnologia!<br>
 
 <br>
 
-<h3 align="left">📬 Contato</h3>
 
+## Contato
+ 
 <div align="left">
   <a href="https://www.linkedin.com/in/murilo-cristov%C3%A3o-dias-93b01022a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
 </div>
+</div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:6366F1&height=100&section=footer"/>

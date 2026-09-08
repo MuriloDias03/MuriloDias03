@@ -4,9 +4,7 @@
 
 **Desenvolvedor Full-Stack** — Java & Spring Boot | React | Docker
 
-<!-- Quando o portfólio estiver no ar, troque o link abaixo -->
-<!-- [🔗 Portfólio](https://seu-link-aqui.vercel.app) · -->
-[GitHub](https://github.com/MuriloDias03) · [LinkedIn](https://www.linkedin.com/in/murilo-cristov%C3%A3o-dias-93b01022a/)
+[Portfolio](https://murilocdias.dev/) · [LinkedIn](https://www.linkedin.com/in/murilo-cristov%C3%A3o-dias-93b01022a/)
 
 </div>
 
